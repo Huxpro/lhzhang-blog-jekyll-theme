@@ -9,7 +9,7 @@ tags:
   - summicron-dr
 ---
 
-[![YamdrokTso](/media/files/2014/12/18/yamdroktso.jpg)](https://www.flickr.com/photos/lhzhang/15858965898/)
+[![YamdrokTso]({{ site.baseurl }}/media/files/2014/12/18/yamdroktso.jpg)](https://www.flickr.com/photos/lhzhang/15858965898/)
 
 大家都是出去旅行放松一下好继续努力工作，我则是相反，旅行回来就更不想上班了 = =  
 不小心弄没了几乎全部 120 的底片，难过了一阵子还是端正了心态，旅行重要的是阅历不是拍照啊（虽然还是很难过  

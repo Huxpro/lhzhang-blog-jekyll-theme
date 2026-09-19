@@ -5,7 +5,9 @@ name: "rusty shutter"
 markdown: rdiscount
 
 author: "wayne"
-atom-baseurl: "http://lhzhang.com"
+url: "https://huxpro.github.io"
+baseurl: "/lhzhang-blog-jekyll-theme"
+atom-baseurl: "https://huxpro.github.io/lhzhang-blog-jekyll-theme"
 disqus: "gopherwood"
 
 navigations:
@@ -24,4 +26,3 @@ navigations:
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
-
